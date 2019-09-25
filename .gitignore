@@ -24,14 +24,12 @@ xcshareddata
 
 # Android/IntelliJ
 #
-android/
-ios/
 build/
 .idea
 .gradle
 local.properties
 *.iml
-q
+
 # node.js
 #
 node_modules/
