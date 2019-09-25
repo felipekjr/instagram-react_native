@@ -1,4 +1,0 @@
-#Wed Sep 25 00:50:03 BRT 2019
-base.0=/home/felipekjr/Documentos/instarocket/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex

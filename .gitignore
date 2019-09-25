@@ -25,6 +25,7 @@ xcshareddata
 # Android/IntelliJ
 #
 android/
+ios/
 build/
 .idea
 .gradle
